@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1765914441078" clover="3.2.0">
+  <project timestamp="1765914441078" name="All files">
+    <metrics statements="63" coveredstatements="63" conditionals="29" coveredconditionals="26" methods="21" coveredmethods="21" elements="113" coveredelements="110" complexity="0" loc="63" ncloc="63" packages="12" files="24" classes="24"/>
+    <package name="src">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="NativeNttFinalProject.ts" path="/Users/elevanoc/Documents/ntt-final-project/src/NativeNttFinalProject.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="src.design.atoms.BankCard">
+      <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="3"/>
+      <file name="BankCard.styles.tsx" path="/Users/elevanoc/Documents/ntt-final-project/src/design/atoms/BankCard/BankCard.styles.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+      <file name="BankCard.tsx" path="/Users/elevanoc/Documents/ntt-final-project/src/design/atoms/BankCard/BankCard.tsx">
+        <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="3"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.design.atoms.ChatBox">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="ChatBox.styles.tsx" path="/Users/elevanoc/Documents/ntt-final-project/src/design/atoms/ChatBox/ChatBox.styles.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+      <file name="ChatBox.tsx" path="/Users/elevanoc/Documents/ntt-final-project/src/design/atoms/ChatBox/ChatBox.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.design.atoms.Input">
+      <metrics statements="18" coveredstatements="18" conditionals="15" coveredconditionals="14" methods="4" coveredmethods="4"/>
+      <file name="Input.styles.tsx" path="/Users/elevanoc/Documents/ntt-final-project/src/design/atoms/Input/Input.styles.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+      <file name="Input.tsx" path="/Users/elevanoc/Documents/ntt-final-project/src/design/atoms/Input/Input.tsx">
+        <metrics statements="14" coveredstatements="14" conditionals="14" coveredconditionals="14" methods="3" coveredmethods="3"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="29" count="4" type="stmt"/>
+        <line num="31" count="4" type="stmt"/>
+        <line num="35" count="4" type="stmt"/>
+        <line num="37" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="39" count="4" type="stmt"/>
+        <line num="40" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="47" count="4" type="stmt"/>
+        <line num="48" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="55" count="4" type="stmt"/>
+      </file>
+      <file name="useInput.tsx" path="/Users/elevanoc/Documents/ntt-final-project/src/design/atoms/Input/useInput.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="2" type="cond" truecount="0" falsecount="1"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.design.atoms.PickerComponent">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+      <file name="PickerComponent.styles.tsx" path="/Users/elevanoc/Documents/ntt-final-project/src/design/atoms/PickerComponent/PickerComponent.styles.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+      <file name="PickerComponent.tsx" path="/Users/elevanoc/Documents/ntt-final-project/src/design/atoms/PickerComponent/PickerComponent.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="16" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="17" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.design.atoms.PrimaryButton">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="PrimaryButton.styles.tsx" path="/Users/elevanoc/Documents/ntt-final-project/src/design/atoms/PrimaryButton/PrimaryButton.styles.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+      <file name="PrimaryButton.tsx" path="/Users/elevanoc/Documents/ntt-final-project/src/design/atoms/PrimaryButton/PrimaryButton.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.design.atoms.SecondaryButton">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="SecondaryButton.styles.tsx" path="/Users/elevanoc/Documents/ntt-final-project/src/design/atoms/SecondaryButton/SecondaryButton.styles.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+      <file name="SecondaryButton.tsx" path="/Users/elevanoc/Documents/ntt-final-project/src/design/atoms/SecondaryButton/SecondaryButton.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.design.molecules.CardSection">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="CardSection.styles.tsx" path="/Users/elevanoc/Documents/ntt-final-project/src/design/molecules/CardSection/CardSection.styles.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+      <file name="CardSection.tsx" path="/Users/elevanoc/Documents/ntt-final-project/src/design/molecules/CardSection/CardSection.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.design.molecules.ListItem">
+      <metrics statements="3" coveredstatements="3" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <file name="ListItem.styles.tsx" path="/Users/elevanoc/Documents/ntt-final-project/src/design/molecules/ListItem/ListItem.styles.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+      <file name="ListItem.tsx" path="/Users/elevanoc/Documents/ntt-final-project/src/design/molecules/ListItem/ListItem.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.design.molecules.ServiceItem">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="ServiceItem.styles.tsx" path="/Users/elevanoc/Documents/ntt-final-project/src/design/molecules/ServiceItem/ServiceItem.styles.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+      <file name="ServiceItem.tsx" path="/Users/elevanoc/Documents/ntt-final-project/src/design/molecules/ServiceItem/ServiceItem.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.modules.network-monitor">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="NativeNetworkMonitor.ts" path="/Users/elevanoc/Documents/ntt-final-project/src/modules/network-monitor/NativeNetworkMonitor.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="useNetworkMonitor.ts" path="/Users/elevanoc/Documents/ntt-final-project/src/modules/network-monitor/useNetworkMonitor.ts">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="29" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.modules.secure-storage">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="NativeSecureStorage.ts" path="/Users/elevanoc/Documents/ntt-final-project/src/modules/secure-storage/NativeSecureStorage.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="types.ts" path="/Users/elevanoc/Documents/ntt-final-project/src/modules/secure-storage/types.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
