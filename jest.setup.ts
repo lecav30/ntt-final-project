@@ -15,15 +15,18 @@ jest.mock('react-native/Libraries/Utilities/NativeDeviceInfo', () => ({
   }),
 }));
 
-jest.mock('react-native/Libraries/Utilities/NativePlatformConstantsIOS', () => ({
-  getConstants: () => ({
-    forceTouchAvailable: false,
-    interfaceIdiom: 'phone',
-    isTesting: true,
-    osVersion: 'test',
-    systemName: 'iOS',
-  }),
-}));
+jest.mock(
+  'react-native/Libraries/Utilities/NativePlatformConstantsIOS',
+  () => ({
+    getConstants: () => ({
+      forceTouchAvailable: false,
+      interfaceIdiom: 'phone',
+      isTesting: true,
+      osVersion: 'test',
+      systemName: 'iOS',
+    }),
+  })
+);
 
 jest.mock('react-native/Libraries/ReactNative/I18nManager', () => ({
   allowRTL: jest.fn(),

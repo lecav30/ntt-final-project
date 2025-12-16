@@ -12,8 +12,7 @@ jest.mock('react-native', () => {
 import { TurboModuleRegistry } from 'react-native';
 import NativeNttFinalProject from '../NativeNttFinalProject';
 
-const mockModule = (jest.requireMock('react-native').__mockModule ||
-  {}) as {
+const mockModule = (jest.requireMock('react-native').__mockModule || {}) as {
   multiply: jest.Mock;
 };
 
